@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.3.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.3.0/SmartLabUltimate_1.1.3.0.zip",
-                   "sha256":  "687DBB399C2E1F43D21690F323549DDEB1AEDF492DD7F10A8D85A665358DDB4D",
-                   "size":  13195804,
+                   "version":  "1.1.4.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.4.0/SmartLabUltimate_1.1.4.0.zip",
+                   "sha256":  "63A6B178DB33F73CE77D5B19912EAA9E1E275A2154A6D65513851E99828823A5",
+                   "size":  13196708,
                    "date":  "12-Nov-2026",
-                   "notes":  "WhatsApp and email: a confirmation box when you click Send. Due payment message now shows the due amount. After Print / Quick Print: option to send the report or the due message on WhatsApp. Compact A4 bill receipt. WhatsApp Inbox. Day-End Report fixes.",
+                   "notes":  "Software update: SmartLab that is still open on another PC is now closed automatically during an update, so updates no longer wait.",
                    "mandatory":  false
                },
     "pilot":  {
