@@ -1,0 +1,16 @@
+{
+    "stable":  null,
+    "pilot":  {
+                  "version":  "1.1.1.0",
+                  "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.1.0/SmartLabUltimate_1.1.1.0.zip",
+                  "sha256":  "677A8F26C2E3CF1C71C5E3E7F698C7E1E328A822258331E2AC026EC5777E99D6",
+                  "size":  13116658,
+                  "date":  "12-Nov-2026",
+                  "notes":  "First automatic update (test). Help \u003e Software Update: check for updates, update, or revert to the previous version.",
+                  "mandatory":  false
+              },
+    "pilotLabs":  [
+
+                  ],
+    "message":  ""
+}
