@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.4.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.4.0/SmartLabUltimate_1.1.4.0.zip",
-                   "sha256":  "63A6B178DB33F73CE77D5B19912EAA9E1E275A2154A6D65513851E99828823A5",
-                   "size":  13196708,
+                   "version":  "1.1.5.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.5.0/SmartLabUltimate_1.1.5.0.zip",
+                   "sha256":  "7811215FD64094673C0CFB8704A43AF60F7A05F3160C048328A75028B4EDAAC6",
+                   "size":  13197035,
                    "date":  "12-Nov-2026",
-                   "notes":  "Software update: SmartLab that is still open on another PC is now closed automatically during an update, so updates no longer wait.",
+                   "notes":  "Updates now keep all your settings: WhatsApp, printers and other options saved in SmartLab stay as they are after every update (settings reset by earlier updates come back).",
                    "mandatory":  false
                },
     "pilot":  {
