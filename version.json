@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.6.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.6.0/SmartLabUltimate_1.1.6.0.zip",
-                   "sha256":  "EFAF4357ED26298836D87034294FC860644D9602B530583A8B52FACA3F68EC81",
-                   "size":  13218504,
+                   "version":  "1.1.7.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.7.0/SmartLabUltimate_1.1.7.0.zip",
+                   "sha256":  "CCA4A0BF01B152D4E2210A9FA9C4099DFAC1BECB9596A59E62A623F1661200C8",
+                   "size":  13213188,
                    "date":  "13-Nov-2026",
-                   "notes":  "LIS Status in the title bar (analyzer online/offline and sample transfer progress, on/off in Report Settings \u003e General). WhatsApp message templates (Free and Official) editable in Report Settings \u003e WhatsApp. PDFs, QR codes, photos and exports always saved to the shared folder.",
+                   "notes":  "WhatsApp message templates removed from Report Settings; WhatsApp messages use the standard wording again.",
                    "mandatory":  false
                },
     "pilot":  {
