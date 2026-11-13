@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.8.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.8.0/SmartLabUltimate_1.1.8.0.zip",
-                   "sha256":  "9FF43E562C8CAD0269FB210061EA0EA78966798FEA31C189B3164511B18E96E2",
-                   "size":  13212935,
+                   "version":  "1.1.9.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.9.0/SmartLabUltimate_1.1.9.0.zip",
+                   "sha256":  "E026EBBBD528FC3AE2B683448A49B8A0D7019B57F3153CA8238295CE1B1F0590",
+                   "size":  13213098,
                    "date":  "13-Nov-2026",
-                   "notes":  "Registration \u0026 Billing fits small screens (e.g. laptops at 125%): Save \u0026 Print no longer cut off, dates and fields fully visible. Runs on .NET Framework 4.8.",
+                   "notes":  "Fixed: an occasional \u0027Thread was being aborted\u0027 error on the start-up screen.",
                    "mandatory":  false
                },
     "pilot":  {
