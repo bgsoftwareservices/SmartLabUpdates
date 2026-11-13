@@ -6,7 +6,7 @@
                    "size":  13213098,
                    "date":  "13-Nov-2026",
                    "notes":  "Fixed: an occasional \u0027Thread was being aborted\u0027 error on the start-up screen.",
-                   "mandatory":  false
+                   "mandatory":  true
                },
     "pilot":  {
                   "version":  "1.1.1.0",
