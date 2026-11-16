@@ -1,12 +1,12 @@
 {
     "stable":  {
-                   "version":  "1.1.9.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.9.0/SmartLabUltimate_1.1.9.0.zip",
-                   "sha256":  "E026EBBBD528FC3AE2B683448A49B8A0D7019B57F3153CA8238295CE1B1F0590",
-                   "size":  13213098,
-                   "date":  "13-Nov-2026",
-                   "notes":  "Fixed: an occasional \u0027Thread was being aborted\u0027 error on the start-up screen.",
-                   "mandatory":  true
+                   "version":  "1.1.10.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.10.0/SmartLabUltimate_1.1.10.0.zip",
+                   "sha256":  "D1311EEBFFE9E09B2451A16709DAF6103B9A38017F91BFA2FEDCD75BB50C421C",
+                   "size":  13291902,
+                   "date":  "16-Nov-2026",
+                   "notes":  "Radiology screen now shows radiology tests inside profiles (e.g. ECG, Chest X-ray in Master Health Checkup). New: Health Camps, Test Reminders, Message Log, Referrer Credit Limit, WhatsApp Settings.",
+                   "mandatory":  false
                },
     "pilot":  {
                   "version":  "1.1.1.0",
