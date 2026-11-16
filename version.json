@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.10.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.10.0/SmartLabUltimate_1.1.10.0.zip",
-                   "sha256":  "D1311EEBFFE9E09B2451A16709DAF6103B9A38017F91BFA2FEDCD75BB50C421C",
-                   "size":  13291902,
+                   "version":  "1.1.11.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.11.0/SmartLabUltimate_1.1.11.0.zip",
+                   "sha256":  "8B1D5EA83984694560630EEA20BE780BCF2BB1ADCFE52394A5C1D751B8199341",
+                   "size":  13291956,
                    "date":  "16-Nov-2026",
-                   "notes":  "Radiology screen now shows radiology tests inside profiles (e.g. ECG, Chest X-ray in Master Health Checkup). New: Health Camps, Test Reminders, Message Log, Referrer Credit Limit, WhatsApp Settings.",
+                   "notes":  "Radiology Reporting: bills with radiology tests inside a profile (e.g. ECG, Chest X-ray in Master Health Checkup) now show in the worklist.",
                    "mandatory":  false
                },
     "pilot":  {
