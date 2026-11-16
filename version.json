@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.11.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.11.0/SmartLabUltimate_1.1.11.0.zip",
-                   "sha256":  "8B1D5EA83984694560630EEA20BE780BCF2BB1ADCFE52394A5C1D751B8199341",
-                   "size":  13291956,
+                   "version":  "1.1.12.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.12.0/SmartLabUltimate_1.1.12.0.zip",
+                   "sha256":  "2EF7948F26205B551A7331FE249473035EBA83CA92A32C672018B058B3B9A577",
+                   "size":  13291599,
                    "date":  "16-Nov-2026",
-                   "notes":  "Radiology Reporting: bills with radiology tests inside a profile (e.g. ECG, Chest X-ray in Master Health Checkup) now show in the worklist.",
+                   "notes":  "WhatsApp settings are now common to every PC of the lab (set once in WhatsApp Settings). Updates only replace the files on this PC, with no network checks or admin prompt.",
                    "mandatory":  false
                },
     "pilot":  {
