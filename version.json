@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.14.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.14.0/SmartLabUltimate_1.1.14.0.zip",
-                   "sha256":  "34BE1BB2651A6B8CB470E02FA1B35A0A271AAE4CC2F43947E89184BC1DA6FD14",
-                   "size":  14456800,
+                   "version":  "1.1.15.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.15.0/SmartLabUltimate_1.1.15.0.zip",
+                   "sha256":  "3B5A475AB5CBD233F3FC03222000166EF2324428ECA6E1BC2A951ADE64D708E5",
+                   "size":  14466127,
                    "date":  "19-Nov-2026",
-                   "notes":  "Final report (3 columns): a result with no unit and no reference range now uses the full width. New PDF Result Reader in Test Result Entry. AI-assisted Test Catalog builder.",
+                   "notes":  "Barcode labels now print in Code 39 (same bars as the old Crystal label the EM 200 reads). Referral screens show doctor names without \u0027Dr.\u0027 and skip blank referrers.",
                    "mandatory":  false
                },
     "pilot":  {
