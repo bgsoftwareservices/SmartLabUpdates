@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.13.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.13.0/SmartLabUltimate_1.1.13.0.zip",
-                   "sha256":  "C3C0C18ED3F06D83030637B1846C0DDA1770BF14A4CC6EFDE77591919653D9D1",
-                   "size":  13299700,
-                   "date":  "17-Nov-2026",
-                   "notes":  "Billing: click a profile or panel name to see the tests under it. Test Monthly Collection: new Group wise, Test wise and Profile wise views. Accounts menu: clearer names - Pay Referral Lab (money out) and Received from Referrers (money in).",
+                   "version":  "1.1.14.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.14.0/SmartLabUltimate_1.1.14.0.zip",
+                   "sha256":  "34BE1BB2651A6B8CB470E02FA1B35A0A271AAE4CC2F43947E89184BC1DA6FD14",
+                   "size":  14456800,
+                   "date":  "19-Nov-2026",
+                   "notes":  "Final report (3 columns): a result with no unit and no reference range now uses the full width. New PDF Result Reader in Test Result Entry. AI-assisted Test Catalog builder.",
                    "mandatory":  false
                },
     "pilot":  {
