@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.16.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.16.0/SmartLabUltimate_1.1.16.0.zip",
-                   "sha256":  "97906EEEE86E499BFEA5A299C6FA468D6CF3D8FBF731AEA3609C5BCFB6029B32",
-                   "size":  14474874,
+                   "version":  "1.1.17.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.17.0/SmartLabUltimate_1.1.17.0.zip",
+                   "sha256":  "E1AFB097EA63371CDAD47FEABB6600D5BB3E8FB34825B0A2A1AD1365FDFE8074",
+                   "size":  14475347,
                    "date":  "24-Nov-2026",
-                   "notes":  "Families on one mobile number; change of today\u0027s payment; expenses paid by card / UPI / bank; Enter in the password signs in; formula decimal places 0 now rounds to a whole number.",
+                   "notes":  "Test result entry: formulas recalculate whenever you enter or leave a result, even when the value is not changed.",
                    "mandatory":  false
                },
     "pilot":  {
