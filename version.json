@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.15.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.15.0/SmartLabUltimate_1.1.15.0.zip",
-                   "sha256":  "3B5A475AB5CBD233F3FC03222000166EF2324428ECA6E1BC2A951ADE64D708E5",
-                   "size":  14466127,
-                   "date":  "19-Nov-2026",
-                   "notes":  "Barcode labels now print in Code 39 (same bars as the old Crystal label the EM 200 reads). Referral screens show doctor names without \u0027Dr.\u0027 and skip blank referrers.",
+                   "version":  "1.1.16.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.16.0/SmartLabUltimate_1.1.16.0.zip",
+                   "sha256":  "97906EEEE86E499BFEA5A299C6FA468D6CF3D8FBF731AEA3609C5BCFB6029B32",
+                   "size":  14474874,
+                   "date":  "24-Nov-2026",
+                   "notes":  "Families on one mobile number; change of today\u0027s payment; expenses paid by card / UPI / bank; Enter in the password signs in; formula decimal places 0 now rounds to a whole number.",
                    "mandatory":  false
                },
     "pilot":  {
