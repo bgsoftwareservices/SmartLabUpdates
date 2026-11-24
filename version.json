@@ -1,11 +1,11 @@
 {
     "stable":  {
-                   "version":  "1.1.18.0",
-                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.18.0/SmartLabUltimate_1.1.18.0.zip",
-                   "sha256":  "F8528E4CD61825EFE7529E550ED7A3B038F8DBF3C64DDEF488B63D00FBDDE051",
-                   "size":  14475801,
+                   "version":  "1.1.19.0",
+                   "url":  "https://github.com/bgsoftwareservices/SmartLabUpdates/releases/download/v1.1.19.0/SmartLabUltimate_1.1.19.0.zip",
+                   "sha256":  "946CE6FFF79FF9617B806253BAC9F56F06BB336C45235259CB47C8FEFC145CD8",
+                   "size":  14475884,
                    "date":  "24-Nov-2026",
-                   "notes":  "AI Builder / Read PDF: reads every report in a PDF that holds several (e.g. Thyroid and PT/APTT), long group titles, methods on two lines, and reference tables in notes.",
+                   "notes":  "Doctor-wise report: the doctor search box is highlighted so it is easy to find.",
                    "mandatory":  false
                },
     "pilot":  {
